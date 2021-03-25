@@ -1,0 +1,30 @@
+body {
+    background: wheat;
+}
+
+h2, h3 {
+    font-size: 1.5rem;
+}
+
+h2 {
+    padding-bottom: 5px;
+}
+
+.score, .player {
+    font-size: 1.1rem;
+    padding-bottom: 12px;
+}
+
+
+.gameContainer {
+    display: flex;
+    align-items: baseline;
+}
+
+.divScore, .btns {
+    margin-left: 20px;
+}
+
+.scoreAndBtns {
+    display: flex;
+}
